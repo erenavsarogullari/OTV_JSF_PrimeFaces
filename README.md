@@ -1,5 +1,7 @@
-OTV_JSF_Hibernate_PrimeFaces
+JSF – PrimeFaces Hello World Application
 
-www.onlinetechvision.com - JSF Hibernate PrimeFaces Project
+This project shows how to develop a JSF Hello World project by using PrimeFaces.
 
-This project shows how to develop a project by using JSF, PrimeFaces and Hibernate
+Used Technologies :
+
+JDK 1.6.0_21, JSF 2.0.3, PrimeFaces 2.2.1, Apache Tomcat 6.0 and Maven 3.0.2
